@@ -8,8 +8,7 @@
   * Polygon Map of geographic features on 4 planetary objects (Mars, Mercury, Moon and Venus)
   * Visualization of Bibliometrics and feature-related publication lists.
   * Python, Postgresql, Linux Server, Postgis, Geoserver and Openlayers 3
-  * [LINK](http://geometrics.jacobs-university.de)
-  * [Github](https://github.com/shinjjo/Planet_Bibliographic_map)
+  * [LINK](http://geometrics.jacobs-university.de) | [Github](https://github.com/shinjjo/Planet_Bibliographic_map)
  ![Screenshot](/image/geometrics.png)
 
 ## Wind Energy Generation Prediction
@@ -27,8 +26,7 @@
   * Semester Project
   * August 2017 - January 2018 
   * Python, Leaflet
-  * [LINK](http://https://shinjjo.github.io/map.html)
-  * [Github](https://github.com/shinjjo/Mars_polygon_coordinate)
+  * [LINK](http://https://shinjjo.github.io/map.html) | [Github](https://github.com/shinjjo/Mars_polygon_coordinate)
 ![Screenshot](/image/mars.png)
 
 ## Handwritten Digit Recognition with Echo State Network 
