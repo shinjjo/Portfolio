@@ -6,7 +6,7 @@
   * Feb 2018 - May 2018 
   * Overall upgrade of [Mapping Mars Features with Polygon and Visualization of Bibliographic Information]
   * Polygon Map of geographic features on 4 planetary objects (Mars, Mercury, Moon and Venus)
-  * Bibliometrics and feature-related publication lists.
+  * Visualization of Bibliometrics and feature-related publication lists.
   * Python, Postgresql, Linux Server, Postgis, Geoserver and Openlayers 3
   * [LINK](http://geometrics.jacobs-university.de)
   * [Github](https://github.com/shinjjo/Planet_Bibliographic_map)
